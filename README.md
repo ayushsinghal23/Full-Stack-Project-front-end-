@@ -1,2 +1,2 @@
-# Full-Stack-Project-front-end-
-this repo is for full stack front end project
+
+# this repo is for full stack front end project
